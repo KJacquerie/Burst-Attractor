@@ -44,6 +44,9 @@ Simu_TUNE.jl is associated with Fig SI for one tonic firing state followed by th
  
 MATLAB 
 Fig3.m: code associated with SIMU_TUNE.jl 
+
+### Fig3C
+Simu_TUNE_sensitivity.jl is associated with Fig3C. 
  
 
 ### Fig4
